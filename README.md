@@ -59,11 +59,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nhannt2609&show_icons=true&theme=algolia&include_all_commits=true&border_radius=15" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nhannt2609&theme=algolia&border_radius=10" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nhannt2609&theme=react-dark" />
 </div>
 
 ---
