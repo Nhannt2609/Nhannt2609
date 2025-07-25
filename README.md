@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=d9a7c7,fffcdc" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8e2de2&reversal=true" />
 </div>
 
 <h3 align="center">
@@ -9,22 +9,24 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;QA%20Automation%20Engineer;Lifelong%20learner;Let’s%20build%20something%20great%20together!&center=true&width=440&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;QA%20Automation%20Engineer;Lifelong%20learner;Let’s%20build%20something%20great%20together!&center=true&width=440&height=45&color=8e2de2">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Nhannt2609">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Nhannt2609.Nhannt2609" alt="visitor badge"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Nhannt2609.Nhannt2609&color=8e2de2" alt="visitor badge"/>
   </a>
 </p>
 
 ---
+
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology (VNU-HCMUT)
 - 👨‍💻 I'm a Backend Developer and QA Engineer who enjoys building scalable systems and ensuring quality through automation.
 - 💬 Ask me about backend architecture, API testing, and CI/CD pipelines.
-- 🚀 I specialize in designing RESTful APIs, managing databases, and writing efficient backend logic using frameworks like FastAPI and NestJS.
+- 🚀 I specialize in designing RESTful APIs, managing databases, and writing efficient backend logic using frameworks like Django and NestJS.
 - 🧪 On the QA side, I work on both manual and automated testing, focusing on UI testing with tools like Selenium to ensure reliability and maintainability across releases.
+
 ## 🛠 Tech Stack
 
 ### 🔧 Languages
@@ -59,7 +61,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nhannt2609&theme=algolia&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nhannt2609&theme=radical&border_radius=10" />
 </div>
 
 ---
